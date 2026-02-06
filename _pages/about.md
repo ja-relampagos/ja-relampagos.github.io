@@ -32,7 +32,7 @@ I am a postgraduate researcher at Lancaster University a member of the <a href="
 
 My research focuses on the structure and dynamics of the Earth's magnetosphere, specifically on its interactions with the solar wind and the ionosphere.
 
-I use a combination of in situ spacecraft observations and ground-based instruments such as SuperDARN (Super Dual Auroral Radar Network) to gain a better understanding of the interplay between the magnetosphere, the ionosphere and the influence of solar wind-driven processes.
+I use a combination of in situ spacecraft observations and ground-based instruments such as <a href="https://superdarn.ca/">SuperDARN</a> (Super Dual Auroral Radar Network) to gain a better understanding of the interplay between the magnetosphere, the ionosphere and the influence of solar wind-driven processes.
 
 Other research interests include:
 
@@ -41,4 +41,4 @@ Other research interests include:
 - Ionosphere-Magnetosphere interactions, particularly plasma convection, the existence of dusk-dawn asymmetries, and substorm dynamics.
 - Space Plasma Physics.
 
-Aside from my research, I am keen to share what I learn and have taken part in outreach events and talks to make space science more accessible to a wider audience.
+Aside from my research, I am happy to share what I learn and have taken part in outreach events and talks to make space science more accessible to a wider audience.
