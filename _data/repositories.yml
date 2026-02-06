@@ -1,8 +1,8 @@
 github_users:
-  - ja-relampagos
+ # - ja-relampagos
 
 repo_description_lines_max: 2
 
 github_repos:
-  - ja-relampagos/SuperDARN-Data-Processing
+ # - ja-relampagos/SuperDARN-Data-Processing
   

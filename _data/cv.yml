@@ -32,8 +32,8 @@ cv:
         highlights:
           
       - institution: University of Southampton
-        url: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-physics-and-astronomy
         location: Southampton, UK
+        url: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-physics-and-astronomy
         area: Physics with Astronomy 
         studyType: MPhys
         start_date: 2019

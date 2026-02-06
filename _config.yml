@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-blog_description: Academic related posts, and guides.
+blog_description: Academic related posts and guides.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -154,16 +154,16 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  # books:
-  #   output: true
-  # news:
-  #   defaults:
-  #     layout: post
-  #   output: true
-  # projects:
-  #   output: true
-  # teachings:
-  #   output: true
+  books:
+    output: false
+  news:
+    defaults:
+      layout: post
+    output: false
+  projects:
+    output: false
+  teachings:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -212,6 +212,8 @@ exclude:
   - _pages/new.md
   - _pages/profiles.md
   - _pages/repositories.md
+  - _data/respository
+  - _includes/latest_posts.liquid
 keep_files:
   - CNAME
   - .nojekyll
