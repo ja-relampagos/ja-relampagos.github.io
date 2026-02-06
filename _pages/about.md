@@ -28,9 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postgraduate researcher at Lancaster University and a member of the Space and Planetary Physics Research Group.
+I am a postgraduate researcher at Lancaster University a member of the <a href="https://www.lancaster.ac.uk/physics/research/astrophysics/space-and-planetary-physics/">Space and Planetary Physics Research Group</a>.
 
-My research focuses on the structure and dynamics of the Earth's magnetosphere, with a particular focus on its interactions with the solar wind and the ionosphere.
+My research focuses on the structure and dynamics of the Earth's magnetosphere, specifically on its interactions with the solar wind and the ionosphere.
 
 I use a combination of in situ spacecraft observations and ground-based instruments such as SuperDARN (Super Dual Auroral Radar Network) to gain a better understanding of the interplay between the magnetosphere, the ionosphere and the influence of solar wind-driven processes.
 
