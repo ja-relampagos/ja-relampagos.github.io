@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ja-relampag.github.io/sitemap.xml
+Sitemap: https://ja-relampagos.github.io/sitemap.xml
