@@ -14,10 +14,10 @@ cv:
 
   address:
    street: 
-   city:
-   region: 
-   postalCode: 
-   countryCode:
+   city: Lancaster
+   region: UK
+   postalCode: LA1 4YW
+   countryCode: 
 
   sections:
     Education:
