@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Space and Planetary Physics Research Group </p>
+    <p>Space and Planetary Physics </p>
     <p>Physics Department </p>
     <p>Lancaster University </p>
     <p>LA1 4YB</p>
