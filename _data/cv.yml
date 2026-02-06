@@ -4,7 +4,7 @@ cv:
   email: j.relampagos@lancaster.ac.uk
   location: Physics Department, Lancaster University, LA1 4YW
   image: ""
- # summary:
+  summary:
 
   social_networks:
     - network: GitHub
@@ -12,12 +12,12 @@ cv:
     #- network: LinkedIn
     #  username: example
 
-  #address:
-   # street: 
-    #city: San Francisco
-  #  region: California
-   # postalCode: CA 94115
-   # countryCode: US
+  address:
+   street: 
+   city:
+   region: 
+   postalCode: 
+   countryCode:
 
   sections:
     Education:
@@ -49,14 +49,14 @@ cv:
         end_date: 2028
         summary: 
         highlights:
-          • PHYS101 – Physics of the Universe
-          • PHYS103 – Electric and Magnetic Fields
-          • PHYS104 – Thermal Properties of Matter
-          • PHYS113 – Series and Differential Equations 
-          • PHYS133 – Oscillations and Waves 
-          • PHYS134 – Electrical Circuits 
-          • PHYS363 – Astrophysics Laboratory  
-          • PHYS467 – Physics of Space Plasma
+          - PHYS101 – Physics of the Universe
+          - PHYS103 – Electric and Magnetic Fields
+          - PHYS104 – Thermal Properties of Matter
+          - PHYS113 – Series and Differential Equations 
+          - PHYS133 – Oscillations and Waves 
+          - PHYS134 – Electrical Circuits 
+          - PHYS363 – Astrophysics Laboratory  
+          - PHYS467 – Physics of Space Plasma
 
       - company: University of Southampton 
         position: Physics Outreach Demonstrator
@@ -64,8 +64,8 @@ cv:
         start_date: 2022
         end_date: 2023
         highlights:
-          • Delivered interactive workshops on auroral science and space weather to secondary school students, including hands-on activities and student-led presentations.
-          • Effectively delivered planetarium shows to students and parents, using visualisations and storytelling to explain auroral processes, the life-cycle of star formation, and major constellations. 
+          - Delivered interactive workshops on auroral science and space weather to secondary school students, including hands-on activities and student-led presentations.
+          - Effectively delivered planetarium shows to students and parents, using visualisations and storytelling to explain auroral processes, the life-cycle of star formation, and major constellations. 
           
       - company: Institute of Physics
         position: Student Engagement Coordinator
@@ -93,8 +93,8 @@ cv:
         end_date: 2023
         summary:
         highlights:
-          • Planned, chaired and coordinated events, guest lectures and talks featuring women in physics and other STEM fields, promoting diversity and collaboration.
-          • Produced media content to promote the network, inform students about opportunities, and increase engagement.
+          - Planned, chaired and coordinated events, guest lectures and talks featuring women in physics and other STEM fields, promoting diversity and collaboration.
+          - Produced media content to promote the network, inform students about opportunities, and increase engagement.
 
     # Awards:
     #   - title: Nobel Prize in Physics
