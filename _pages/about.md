@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Lancaster University</a>.
+subtitle: 
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Space and Planetary Physics </p>
     <p>Physics Department </p>
     <p>Lancaster University </p>
-    <p>LA1 4YB</p>
+    <p>LA1 4YB </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -28,10 +28,11 @@ cv:
         studyType: PhD
         start_date: 2024
         end_date: 2028
-        courses: Dynamics of the Earth's Magnetosphere
+        courses: PhD Project - Dynamics of the Earth's Magnetosphere
         highlights:
           
       - institution: University of Southampton
+        url: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-physics-and-astronomy
         location: Southampton, UK
         area: Physics with Astronomy 
         studyType: MPhys
@@ -44,7 +45,7 @@ cv:
     Experience:
       - company: Lancaster University 
         position: Graduate Teaching Assistant
-        location: Lancaster University, UK
+        location: Lancaster, UK
         start_date: 2024
         end_date: 2028
         summary: 
@@ -70,8 +71,8 @@ cv:
       - company: Institute of Physics
         position: Student Engagement Coordinator
         location: London, UK
-        start_date: July 2022
-        end_date: September 2022
+        start_date: 2022
+        end_date: 2022
 
       # - company: Karl-Ferdinand University
       #   position: Professor of Theoretical Physics
