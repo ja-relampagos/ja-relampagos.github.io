@@ -35,7 +35,7 @@ Autumn MIST 2025<br>
 Royal Astronomical Society, London<br>
 <span class="meta">November 2025 • Poster presented</span>
 
-**Northward IMF Specialist Meeting**
+**Northward IMF Specialist Meeting**<br>
 University of Southampton<br>
 <span class="meta">November 2025 • Invited speaker</span>
 
@@ -47,9 +47,12 @@ Royal Astronomical Society, London<br>
 
 <style>
   .post-content h2 {
-    border-bottom: 1px solid var(--global-divider-color, #ccc);
-    padding-bottom: 0.4rem;
-    margin-top: 2.5rem;
+    color: var(--global-text-color, #000);
+    border-top: 1px solid var(--global-text-color-light, #777);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
   }
   .meta {
     font-size: 0.85rem;
