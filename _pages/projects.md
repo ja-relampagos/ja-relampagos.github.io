@@ -2,7 +2,7 @@
 layout: page
 title: outreach
 permalink: /outreach/
-description: Below are some of the outreach activities I have taken part in to make science more accessible to everyone!
+description: below are some of the outreach activities I have taken part in to make science more accessible to everyone!
 nav: true
 nav_order: 3
 display_categories: [work, fun]

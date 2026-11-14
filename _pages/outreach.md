@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach
+title: outreach
 permalink: /outreach/
 description: Below are some of the outreach activities I have taken part in to make science more accessible to everyone!
 nav: true
@@ -15,3 +15,30 @@ nav_order: 3
     {% endfor %}
   </div>
 </div>
+
+<style>
+  .outreach-img {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 0.25rem 0.25rem 0 0;
+  }
+  .outreach-img img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+  }
+  .outreach-img.cover {
+    padding: 0;
+  }
+  .outreach-img.cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+</style>
