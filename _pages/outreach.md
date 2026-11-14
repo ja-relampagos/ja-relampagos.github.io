@@ -11,7 +11,7 @@ nav_order: 3
   {% assign sorted_outreach = site.outreach | sort: "importance" %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_outreach %}
-      {% include outreach_card.liquid %}
+      {% include outreach/outreach_card.liquid %}
     {% endfor %}
   </div>
 </div>
