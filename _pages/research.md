@@ -13,7 +13,7 @@ nav_order: 4
 Lancaster University<br>
 <span class="meta">2026, 2025, 2024 • Speaker</span>
 
-**Field-Aligned Currents under TRINNIs**<br>
+**[Field-Aligned Currents under TRINNIs]({{ '/assets/pdf/Autumn_MIST_2026_Relampagos.pdf' | relative_url }}){:target="_blank" rel="noopener"}**<br>
 Autumn MIST 2026<br>
 Royal Astronomical Society, London<br>
 <span class="meta">November 2026 • Poster presented</span>
