@@ -41,5 +41,5 @@ Other research interests include:
 - Ionosphere-Magnetosphere interactions, particularly plasma convection, the existence of dusk-dawn asymmetries, and substorm dynamics.
 - Space Plasma Physics.
 
-Aside from my research, I am happy to share what I learn and have taken part in outreach events and talks to make space science more accessible to a wider audience! 
+Aside from my research, I am happy to share what I learn and have taken part in outreach events and talks to make space science more accessible to a wider audience!
 Feel free to reach out if you have any questions for me.
