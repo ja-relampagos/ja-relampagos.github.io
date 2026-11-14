@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postgraduate researcher at Lancaster University and a member of the <a href="https://www.lancaster.ac.uk/physics/research/astrophysics/space-and-planetary-physics/">Space and Planetary Physics Research Group</a>.
+Hello there! I am a PhD researcher at Lancaster University and a member of the <a href="https://www.lancaster.ac.uk/physics/research/astrophysics/space-and-planetary-physics/">Space and Planetary Physics Research Group</a>.
 
 My research focuses on the structure and dynamics of the Earth's magnetosphere, specifically on its interactions with the solar wind and the ionosphere.
 
@@ -41,4 +41,4 @@ Other research interests include:
 - Ionosphere-Magnetosphere interactions, particularly plasma convection, the existence of dusk-dawn asymmetries, and substorm dynamics.
 - Space Plasma Physics.
 
-Aside from my research, I am happy to share what I learn and have taken part in outreach events and talks to make space science more accessible to a wider audience.
+Aside from my research, I am happy to share what I learn and have taken part in outreach events and talks to make space science more accessible to a wider audience! Feel free to reach out if you have any questions for me. 
