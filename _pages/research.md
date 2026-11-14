@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## 2026 {: .bibliography}
+<h2 class="bibliography">2026</h2>
 
 **Space and Planetary Physics Group meetings (Recurring)**<br>
 Lancaster University<br>
@@ -28,7 +28,9 @@ FST Celebration of Science 2026<br>
 School of Physics and Astronomy, Lancaster University<br>
 <span class="meta">May 2026 • Poster presented</span>
 
-## 2025 {: .bibliography}
+
+<h2 class="bibliography">2025</h2>
+
 
 **Investigating the Evolution of Nightside Ionospheric Flows During Dominant IMF B<sub>Y</sub> Conditions**<br>
 Autumn MIST 2025<br>
@@ -39,7 +41,7 @@ Royal Astronomical Society, London<br>
 University of Southampton<br>
 <span class="meta">November 2025 • Invited speaker</span>
 
-## 2024 {: .bibliography}
+<h2 class="bibliography">2024</h2>
 
 **Autumn MIST 2024**<br>
 Royal Astronomical Society, London<br>
