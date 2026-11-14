@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "outreach-institute-of-physics-iop",
           title: 'Institute of Physics (IOP)',
-          description: "In 2025, I was the magnetosphere role model for the IOP&#39;s *Mimi&#39;s Big Earth Adventure*, helping to introduce young people to Earth science. [Read more](https://www.iop.org/explore-physics/mimis-big-earth-adventure/rockstars-earth-science)",
+          description: "In 2025, I was the magnetosphere role model for the IOP&#39;s Mimi&#39;s Big Earth Adventure exhibition, helping to introduce young people to Earth science. [Read more](https://www.iop.org/explore-physics/mimis-big-earth-adventure/rockstars-earth-science)",
           section: "Outreach",handler: () => {
               window.location.href = "/outreach/IOP/";
             },},{id: "outreach-lancaster-university",
