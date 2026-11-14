@@ -13,11 +13,11 @@ cv:
     #  username: example
 
   address:
-   street: 
-   city: Lancaster
-   region: UK
-   postalCode: LA1 4YW
-   countryCode: 
+    street:
+    city: Lancaster
+    region: UK
+    postalCode: LA1 4YW
+    countryCode:
 
   sections:
     Education:
@@ -30,11 +30,11 @@ cv:
         end_date: 2028
         courses: PhD Project - Dynamics of the Earth's Magnetosphere
         highlights:
-          
+
       - institution: University of Southampton
         location: Southampton, UK
         url: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-physics-and-astronomy
-        area: Physics with Astronomy 
+        area: Physics with Astronomy
         studyType: MPhys
         start_date: 2019
         end_date: 2023
@@ -43,31 +43,31 @@ cv:
           - Dissertation Topic - The Role of the Sun on the Earth's Climate
 
     Experience:
-      - company: Lancaster University 
+      - company: Lancaster University
         position: Graduate Teaching Assistant
         location: Lancaster, UK
         start_date: 2024
         end_date: 2028
-        summary: 
+        summary:
         highlights:
           - PHYS101 – Physics of the Universe
           - PHYS103 – Electric and Magnetic Fields
           - PHYS104 – Thermal Properties of Matter
-          - PHYS113 – Series and Differential Equations 
-          - PHYS133 – Oscillations and Waves 
-          - PHYS134 – Electrical Circuits 
-          - PHYS363 – Astrophysics Laboratory  
+          - PHYS113 – Series and Differential Equations
+          - PHYS133 – Oscillations and Waves
+          - PHYS134 – Electrical Circuits
+          - PHYS363 – Astrophysics Laboratory
           - PHYS467 – Physics of Space Plasma
 
-      - company: University of Southampton 
+      - company: University of Southampton
         position: Physics Outreach Demonstrator
         location: Southampton, UK
         start_date: 2022
         end_date: 2023
         highlights:
           - Delivered interactive workshops on auroral science and space weather to secondary school students, including hands-on activities and student-led presentations.
-          - Effectively delivered planetarium shows to students and parents, using visualisations and storytelling to explain auroral processes, the life-cycle of star formation, and major constellations. 
-          
+          - Effectively delivered planetarium shows to students and parents, using visualisations and storytelling to explain auroral processes, the life-cycle of star formation, and major constellations.
+
       - company: Institute of Physics
         position: Student Engagement Coordinator
         location: London, UK

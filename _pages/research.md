@@ -6,7 +6,3 @@ description: Conferences, meetings and talks I have participated in, in reverse 
 nav: true
 nav_order: 4
 ---
-
-
-
-

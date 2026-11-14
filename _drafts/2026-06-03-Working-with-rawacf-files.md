@@ -2,13 +2,11 @@
 layout: post
 title: Working with rawacf files
 date: 2026-06-03 15:00:00
-description: Converting rawacf to fitacf files 
+description: Converting rawacf to fitacf files
 tags: RST-guide
 categories: SuperDARN
 featured: true
 ---
-
-
 
 ````markdown
 ```c++
