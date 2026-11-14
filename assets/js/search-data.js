@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-outreach",
           title: "outreach",
-          description: "Below are some of the outreach activities I have taken part in to make science more accessible to everyone!",
+          description: "below are some of the outreach activities I have taken part in to make science more accessible to everyone!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/outreach/";
