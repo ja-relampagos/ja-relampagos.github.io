@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
+        },{id: "nav-groups",
+          title: "groups",
+          description: "here are some groups that I am a part of",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/groups/";
+          },
         },{id: "nav-meetings",
           title: "meetings",
           description: "conferences, meetings and talks I have participated in, in reverse chronological order.",
