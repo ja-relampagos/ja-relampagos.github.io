@@ -4,7 +4,7 @@ title: outreach
 permalink: /outreach/
 description: below are some of the outreach activities I have taken part in to make science more accessible to everyone!
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 <div class="projects">
