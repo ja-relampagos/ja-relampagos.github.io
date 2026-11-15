@@ -44,13 +44,13 @@ University of Southampton<br>
 <h2 class="bibliography">2024</h2>
 
 **Autumn MIST 2024**<br>
-Royal Astronomical Society, London<br>
+University of Birmingham, Birmingham<br>
 <span class="meta">November 2024 • Attendee</span>
 
 <style>
   h2.bibliography {
     color: var(--global-text-color) !important;
-    border-top: 1px solid var(--global-text-color-light) !important;
+    border-top: 1px solid var(--global-divider-color, #ddd) !important;
     text-align: right !important;
     margin-top: 2rem;
     margin-bottom: 1rem;

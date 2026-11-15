@@ -1,0 +1,12 @@
+---
+layout: page
+title: groups
+permalink: /groups/
+description: here are some groups that I am a part of 
+nav: true
+nav_order: 4
+---
+<h2 class="bibliography">SuperDARN</h2>
+
+**[SuperDARN Data Analysis Working Group (DAWG)](https://superdarn.github.io/dawg/){:target="_blank" rel="noopener"}**<br>
+I am a member of the SuperDARN Data Analysis Working Group (DAWG), where we review and test code contributions to the {Radar Software Toolkit (RST)}(https://radar-software-toolkit-rst.readthedocs.io/en/latest/). RST is the community's standard software for processing raw SuperDARN radar data into scientific data products, such as maps of ionospheric convection, so that researchers around the world can analyse and visualise the data. Our reviews help keep the toolkit accurate, reliable and well maintained. 

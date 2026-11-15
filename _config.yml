@@ -163,6 +163,8 @@ collections:
     output: false
   outreach:
     output: false
+  group:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
