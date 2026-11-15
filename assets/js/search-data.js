@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-outreach",
-          title: "outreach",
-          description: "below are some of the outreach activities I have taken part in to make science more accessible to everyone!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/outreach/";
-          },
         },{id: "nav-meetings",
           title: "meetings",
           description: "conferences, meetings and talks I have participated in, in reverse chronological order.",
@@ -30,19 +23,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/meetings/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-groups",
           title: "groups",
           description: "Here are some of the groups that I am a part of.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/groups/";
+          },
+        },{id: "nav-outreach",
+          title: "outreach",
+          description: "below are some of the outreach activities I have taken part in to make science more accessible to everyone!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/outreach/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "outreach-institute-of-physics-iop",
           title: 'Institute of Physics (IOP)',
